@@ -4,8 +4,5 @@
 ## Author: Daegan
 ## Notes: Tattles to your default chat frame who has used their taunt nearby
 ## SavedVariablesPerCharacter: 
-## X-Curse-Packaged-Version: v2.0
-## X-Curse-Project-Name: Taunt Tattle 2
-## X-Curse-Project-ID: taunt_tattle_2
-## X-Curse-Repository-ID: wow/taunt_tattle_2/mainline
-Taunt_Tattle.xml
+
+Taunt_Tattle_2.xml
