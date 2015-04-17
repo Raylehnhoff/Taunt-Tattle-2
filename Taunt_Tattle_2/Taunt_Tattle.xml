@@ -1,0 +1,12 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/ C:\Projects\WoW\Bin\Interface\FrameXML\UI.xsd">
+
+<Script file="Taunt_Tattle.lua"/>
+
+<Frame name="TauntTattleFrame" toplevel="true" frameStrata="HIGH" movable="true" enableMouse="true" parent="UIParent" hidden="true" >
+	<Scripts>
+		<!-- event handler -->
+		<OnLoad>TauntTattleFrame_OnLoad();</OnLoad>
+		<OnEvent>TauntTattleFrame_OnEvent(event,...);</OnEvent>
+	</Scripts>
+
+</Frame></Ui>
